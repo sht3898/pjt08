@@ -120,7 +120,7 @@ $ python manage.py loaddata movie.json
 * dsf-yasg 설치
 
   ```bash
-$ pip install drf-yasg
+  $ pip install drf-yasg
   ```
   
 * settings.py에 추가
